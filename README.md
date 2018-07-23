@@ -32,7 +32,7 @@ Print The total meal cost is totalCost dollars., where totalCost is the rounded 
 The total meal cost is 15 dollars.
 
 
-Java code:
+# Java code:
 
 import java.io.*;
 import java.math.*;
